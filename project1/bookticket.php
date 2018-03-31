@@ -10,7 +10,7 @@
 <?php
   $servername = "localhost";
   $username = "root";
-  $password = "prashant";
+  $password = "*****"; // enter your password
   $dbName="train_test";
   // Create connection
   $conn = new mysqli($servername, $username, $password,$dbName);
